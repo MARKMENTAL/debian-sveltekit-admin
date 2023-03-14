@@ -1,0 +1,1 @@
+<img src="debian-logo.png" class="deblogo" alt="Debian logo" width="50" height="50">
